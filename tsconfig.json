@@ -10,5 +10,6 @@
     "lib": ["ES2015","DOM"]
   },
   "include": ["src/**/*"],
-  "exclude": ["**/*.spec.ts"]
+  "exclude": ["**/*.spec.ts"],
+  "strict": [true]
 }
